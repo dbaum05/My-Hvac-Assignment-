@@ -1,4 +1,5 @@
 # JHS-HVAC-Assignment
+Created & Written by: Dylan, Jorge, and Jacob
 
 [//]: # (Image References)
 
@@ -48,3 +49,5 @@ Here is an overall picture of the code:
 ![image4][image5] 
  
 It is annotated for better explanation (I was told to).  
+
+_Edited by: Hunter, CJ, Diego _
