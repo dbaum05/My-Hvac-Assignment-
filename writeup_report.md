@@ -3,7 +3,10 @@
 [//]: # (Image References)
 
 [image1]: https://github.com/HunterDProfessional/My-Hvac-Assignment-/blob/master/image/bill.jpg "bill"
-[image2]: https://github.com/joshrwhite/JHS-HVAC-Assignment/blob/master/Images/Rubric_SoftwareDesign.PNG "Rubric2"
+[image2]: https://github.com/HunterDProfessional/My-Hvac-Assignment-/blob/master/image/Image%201.jpg "image 1"
+[image3]: https://github.com/HunterDProfessional/My-Hvac-Assignment-/blob/master/image/image%202.jpg "image 2"
+[image4]: https://github.com/HunterDProfessional/My-Hvac-Assignment-/blob/master/image/image%203.jpg "image 3"
+[image5]: https://github.com/HunterDProfessional/My-Hvac-Assignment-/blob/master/image/image%204.jpg "image 4"
 
 ## Design Criteria  
 •	Using fischertechniks and ROBOPro, build a prototype HVAC system to maintain a certain tolerance of temperature 
@@ -19,7 +22,7 @@ There were lights wired to the motor and lights in parallel (one for motor, one 
  
  
  
-Code  
+## Code  
 A kill switch was coded in, but it has no effect on the rest of the code.  
 ![bill][image1] 
  
