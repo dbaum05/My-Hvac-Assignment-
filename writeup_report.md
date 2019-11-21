@@ -1,11 +1,11 @@
-JHS-HVAC-Assignment
+# JHS-HVAC-Assignment
 
 [//]: # (Image References)
 
 [image1]: https://github.com/HunterDProfessional/My-Hvac-Assignment-/blob/master/image/bill.jpg "bill"
 [image2]: https://github.com/joshrwhite/JHS-HVAC-Assignment/blob/master/Images/Rubric_SoftwareDesign.PNG "Rubric2"
 
-Design Criteria  
+## Design Criteria  
 •	Using fischertechniks and ROBOPro, build a prototype HVAC system to maintain a certain tolerance of temperature 
 •	A light should indicate whether the fan or the lamp is on 
 •	A control panel should count the number of seconds the fan or lamp has been on • Fully comment all functions within the flowchart program 
